@@ -1,0 +1,41 @@
+
+body
+{
+    background-color: aqua;
+    height: 100vh;
+}
+
+header
+    {
+        width:100%;
+        border: 1px solid black;
+        height:20%;
+    }
+    nav
+    {
+        width: 33%;
+        border: 1px solid black;
+        float: left;
+        height:60%;
+    }
+    aside
+    {
+        width: 33%;
+        border: 1px solid black;
+        float: right;
+        height:60%;
+    }
+    main
+    {
+        width: 33%;
+        border: 1px solid black;
+        height:60%;
+        overflow: auto;
+    }
+
+    footer
+    {
+        width: 100%;
+        border: 1px solid black;
+        height:20%;
+    }
